@@ -9,7 +9,6 @@ Important: Before using your Python skills for web scraping, you should always c
 This code snippest demonstrates the use of scraping technique to extract and parse raw data from a HTTP request response received from google when we make a query for weather data of an specific city.
 
 1. Define the end point url and header.
-![image](https://user-images.githubusercontent.com/5813359/188325009-e3d81ebf-4876-4aaa-b8b9-0d86f40d22f4.png)
 
 
 The output of this code look likes the picture:
