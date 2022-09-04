@@ -18,6 +18,7 @@ This code snippest demonstrates the use of scraping technique to extract and par
 ![Code to Get Weather Data Using Python 2](https://user-images.githubusercontent.com/5813359/188325146-adc2b886-bb98-4e98-b2e0-5153380dc679.png)
 
 4.Using PrettyTable module to create a table.
+![Code to Get Weather Data Using Python 3](https://user-images.githubusercontent.com/5813359/188325199-bd4355f4-2c45-4396-afb3-dbb21b18c216.png)
 
 
 The output of this code look likes the picture:
