@@ -17,6 +17,9 @@ This code snippest demonstrates the use of scraping technique to extract and par
 3. Print out Today weather data.
 ![Code to Get Weather Data Using Python 2](https://user-images.githubusercontent.com/5813359/188325146-adc2b886-bb98-4e98-b2e0-5153380dc679.png)
 
+4.Using PrettyTable module to create a table.
+
+
 The output of this code look likes the picture:
 ![Code to Get Weather Data Using Python 5](https://user-images.githubusercontent.com/5813359/188323411-ca10d482-8165-44b6-9cad-34d7a77c310b.png)
 
