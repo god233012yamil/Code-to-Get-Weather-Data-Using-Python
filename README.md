@@ -1,4 +1,4 @@
-# Code-to-Get-Weather-Data-Using-Python
+# Code to Get Weather Data Using Python
 
 The Internet hosts perhaps the greatest source of information—and misinformation—on the planet. Many disciplines, such as data science, business intelligence, and investigative reporting, can benefit enormously from collecting and analyzing data from websites.
 
@@ -19,6 +19,9 @@ This code snippest demonstrates the use of scraping technique to extract and par
 
 4.Using PrettyTable module to create a table.
 ![Code to Get Weather Data Using Python 3](https://user-images.githubusercontent.com/5813359/188325199-bd4355f4-2c45-4396-afb3-dbb21b18c216.png)
+
+5.Checking for exceptions.
+
 
 
 The output of this code look likes the picture:
