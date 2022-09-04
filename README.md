@@ -12,6 +12,9 @@ This code snippest demonstrates the use of scraping technique to extract and par
 ![Code to Get Weather Data Using Python](https://user-images.githubusercontent.com/5813359/188325050-60c5bc80-551a-4832-a9fa-3583bb97af94.png)
 
 2. Make the request using HTTP GET method.
+![Code to Get Weather Data Using Python 1](https://user-images.githubusercontent.com/5813359/188325097-30fa19b9-1b11-4b2f-91c1-0c1f269eeda3.png)
+
+3. Print out Today weather data.
 
 
 The output of this code look likes the picture:
